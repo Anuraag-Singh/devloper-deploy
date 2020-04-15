@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">Working On AWS + Devops</h1>
       <h2 class="text-center">Jenkins JOB Start</h2>
-      <h3 class="text-center">Deployed using Azure Devops</h3>
+      <h3 class="text-center">Deployed using Azure Devops and added the approvals</h3>
   </div>
 </body>
 </html>
