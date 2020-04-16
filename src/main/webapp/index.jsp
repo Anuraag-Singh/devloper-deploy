@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to Perficient </title>
+    <title>Welcome to Jenkins</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">Working On AWS + Devops</h1>
       <h2 class="text-center">Jenkins JOB Start</h2>
-      <h3 class="text-center">Just Testing</h3>
+      <h3 class="text-center">Go Corona Go</h3>
   </div>
 </body>
 </html>
